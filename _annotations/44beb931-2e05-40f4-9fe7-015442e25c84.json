@@ -1,0 +1,41 @@
+---
+canvas: "https://e-codices.ch/loris/fmb/fmb-cb-0600a/fmb-cb-0600a_004.jp2/168,2392,776,720/full/0/gray.jpg"
+order: 2
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "face",
+            "purpose": "commenting",
+            "creator": {
+                "id": "melroethlisberger",
+                "name": "Melanie R\u00f6thlisberger"
+            },
+            "created": "2022-04-01T07:43:51.114Z",
+            "modified": "2022-04-01T07:43:51.638Z"
+        },
+        {
+            "type": "TextualBody",
+            "purpose": "tagging",
+            "value": "body",
+            "creator": {
+                "id": "melroethlisberger",
+                "name": "Melanie R\u00f6thlisberger"
+            },
+            "created": "2022-04-01T07:43:56.046Z"
+        }
+    ],
+    "target": {
+        "source": "https://e-codices.ch/loris/fmb/fmb-cb-0600a/fmb-cb-0600a_004.jp2/168,2392,776,720/full/0/gray.jpg",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=281.01080322265625,121.29032897949219,226.8817138671875,169.89247131347656"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "44beb931-2e05-40f4-9fe7-015442e25c84.json",
+    "motivation": "commenting"
+}
