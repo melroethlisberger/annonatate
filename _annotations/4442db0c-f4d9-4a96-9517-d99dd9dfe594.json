@@ -1,0 +1,42 @@
+---
+canvas: "https://e-codices.ch/loris/fmb/fmb-cb-0600a/fmb-cb-0600a_004.jp2/168,2392,776,720/full/0/gray.jpg"
+order: 1
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "hand of dragon",
+            "purpose": "classifying",
+            "creator": {
+                "id": "melroethlisberger",
+                "name": "Melanie R\u00f6thlisberger"
+            },
+            "created": "2022-04-01T07:25:09.511Z",
+            "modified": "2022-04-01T07:25:19.547Z"
+        },
+        {
+            "type": "TextualBody",
+            "value": "body",
+            "purpose": "tagging",
+            "creator": {
+                "id": "melroethlisberger",
+                "name": "Melanie R\u00f6thlisberger"
+            },
+            "created": "2022-04-01T07:25:23.245Z",
+            "modified": "2022-04-01T07:25:23.672Z"
+        }
+    ],
+    "target": {
+        "source": "https://e-codices.ch/loris/fmb/fmb-cb-0600a/fmb-cb-0600a_004.jp2/168,2392,776,720/full/0/gray.jpg",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=578.8602905273438,175.05377197265625,123.6558837890625,102.15054321289062"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "4442db0c-f4d9-4a96-9517-d99dd9dfe594.json",
+    "motivation": "commenting"
+}
